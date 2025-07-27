@@ -45,5 +45,5 @@ Here is an example of the model's prediction on a test image:
 
 A detailed report on this project, including the methodology and results, has been published on ResearchGate. You can access the paper via the following link:
 
-**Noise Isolation in Bird Sound Images Using AtrousSegNet with Multi-Scale Contextual Learning**  
-🔗 [https://www.researchgate.net/publication/387180246_Noise_Isolation_in_Bird_Sound_Images_Using_AtrousSegNet_with_Multi-Scale_Contextual_Learning](https://www.researchgate.net/publication/387180246_Noise_Isolation_in_Bird_Sound_Images_Using_AtrousSegNet_with_Multi-Scale_Contextual_Learning)
+A detailed report on this project, including the methodology and results, has been published on ResearchGate:  
+👉 [**Noise Isolation in Bird Sound Images Using AtrousSegNet with Multi-Scale Contextual Learning**](https://www.researchgate.net/publication/387180246_Noise_Isolation_in_Bird_Sound_Images_Using_AtrousSegNet_with_Multi-Scale_Contextual_Learning)
