@@ -12,6 +12,8 @@ The model is trained on a specialized dataset of bird sound spectrograms. The da
 
 The images and masks are resized to **256x256 pixels** for training and evaluation.
 
+The Dataset is obtained from the following link [click here](https://github.com/YoushanZhang/BirdSoundsDenoising)
+
 ## Model Architecture: AtrousSegNet
 
 AtrousSegNet is a custom encoder-decoder network designed for semantic segmentation.
